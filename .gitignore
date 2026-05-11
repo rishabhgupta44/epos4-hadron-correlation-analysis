@@ -1,0 +1,13 @@
+*.root
+*.log
+*.so
+*.o
+*.pcm
+*.d
+
+build/
+output/
+figures/
+
+.DS_Store
+
